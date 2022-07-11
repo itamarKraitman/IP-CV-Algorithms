@@ -1,2 +1,2 @@
-# IP-CV-assignments
-Assignments of the Image Processing and Computer Vision course 2022
+### Welcome! 
+In this project repository, I included 5 projects where I implementes Image Processing and Computer Vision algorithms.
