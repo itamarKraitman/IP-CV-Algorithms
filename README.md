@@ -1,7 +1,7 @@
 # Image Processing and Computer Vision Algorithms || Itamar Kraitman || 2022
 
 ### This repository contains four mini projects, where in each I implemented several IP and CV algorithms in different scale of dificulity. 
-#### Project 1
+### Project 1
 Algorithms which I implemented in this project:
 * Reading an image, and converts it as requested to gray scale or RGB.
 * Converting an RGB image to YIQ color space, and the oposite.
