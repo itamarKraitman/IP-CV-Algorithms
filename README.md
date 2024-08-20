@@ -1,4 +1,4 @@
-# Image Processing and Computer Vision Algorithms || Itamar Kraitman || 2022
+# Image Processing and Computer Vision Algorithms || Itamar Kraitman
 
 ### This repository contains four mini projects, where in each I implemented several IP and CV algorithms in different scale of dificulity. 
 ### Project 1
